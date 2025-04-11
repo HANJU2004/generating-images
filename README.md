@@ -10,3 +10,4 @@ ure_1_flower](https://github.com/user-attachments/assets/39553ccf-eea0-459f-a720
 
 失败案例：
 <img width="480" alt="vaeanime6" src="https://github.com/user-attachments/assets/341b38b4-0847-4a6e-966a-70cda6d2830b" />
+<img width="480" alt="vaeanime4" src="https://github.com/user-attachments/assets/2bfb0ffb-8d36-4a98-bed9-1bfa30b08ce2" />
